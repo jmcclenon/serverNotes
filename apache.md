@@ -2,7 +2,7 @@
 
 1. Install Apache using the following:
 
-	sudo apt-get install lamp-server^
+	sudo apt-get install lamp-server^ (__make sure you include the ^ at the end__)
 	
 2. When done, you will have a functional Apache server installed on your machine. You should be able to use a browser, go to the IP address of the server. If you see the Apache startup page, all is well. If you don't see that page, try the installation again.
 
