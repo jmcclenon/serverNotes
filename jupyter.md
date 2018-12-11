@@ -73,6 +73,7 @@ To start Jupyter Lab, use:
 ```
 jupyter lab --no-ip --port 9999 --no-browser	
 ```
+Note that the terminal you are running Jupyter Notebook server (or Jupyter Lab server) from will be fully engaged. You will need to start another remote session
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODA3NjYyLC0yMTA3MTI0NzgxXX0=
+eyJoaXN0b3J5IjpbMTI5Nzc4NzI0NywtMjEwNzEyNDc4MV19
 -->
