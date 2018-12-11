@@ -15,9 +15,12 @@
 
 4. When done, check your Apache version number. You can use php.info to establish this information (see below).
 
-	<?php
+	
+```
+<?php
 	phpinfo();
-	?>
+?>
+```
 
 The PHP code shown above, when run, will display a great deal of information about your Apache2/PHP platform. That will include the current Apache2 version number. It is probably a good idea to delete phpinfo.php when you're done using it. Too much information!
 
@@ -41,5 +44,5 @@ PHP 7.x
 
 Various Apache2 modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTUwOTExNF19
+eyJoaXN0b3J5IjpbLTgwMzQ0NDE4MF19
 -->
