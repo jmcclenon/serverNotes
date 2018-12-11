@@ -27,12 +27,12 @@ conda update anaconda
 8. Activate installation with: 
 
 ```
-    source ~/.bashrc
+source ~/.bashrc
 ```
 9. Create Python3 Environment
 
 ```
- conda create --name Python3 python3
+conda create --name Python3 python3
 ```
 10. Activate the Python3 Environment 
 
@@ -45,7 +45,8 @@ source activate Python3
 ```
 conda install numpy, pandas, scikit-learn, plotly, matplotlib
 ```
-Configure the Python2.7 environment (if needed):
+
+### Configure the Python2.7 environment (if needed):
 
 ```
 conda create -n py27 python=2.7
@@ -68,7 +69,8 @@ To start Jupyter Notebook, use:
 jupyter notebook --no-ip --port 8888 --no-browser
 ```
 ---
-To start Jupyter Lab, use:
+
+### To start Jupyter Lab, use:
 
 ```
 jupyter lab --no-ip --port 9999 --no-browser	
@@ -82,5 +84,5 @@ CTRL-C
 ```
 ...twice! That will break your terminal out of Jupyter server, and shut down all notebooks and labs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTA1MjA2NiwtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbLTQ3MzEyOTc1NCwtMjEwNzEyNDc4MV19
 -->
