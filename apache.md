@@ -1,4 +1,5 @@
-## Install Apache Server on Ubuntu 16.04![Apache HTTP Server](https://opensourcesolution.com.br/wp-content/upload/2016/01/apache.png)
+## Install Apache Server on Ubuntu 16.04
+![Apache HTTP Server](https://opensourcesolution.com.br/wp-content/upload/2016/01/apache.png)
 
 1. Install Apache using the following APT command:
 
@@ -49,6 +50,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczODQ5Mjg1LDE5NjA3MTcxNTQsLTE0Mj
+eyJoaXN0b3J5IjpbNzA2NzMzMzYzLDE5NjA3MTcxNTQsLTE0Mj
 IzMjE1ODEsLTEwNjg1MzE0NjBdfQ==
 -->
