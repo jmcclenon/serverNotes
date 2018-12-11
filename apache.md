@@ -1,7 +1,6 @@
 ## Install Apache Server on Ubuntu
 
 1. Install Apache using the following:
-
 	```
 	sudo apt-get install lamp-server^ 
 	```
@@ -35,7 +34,9 @@ For more information about the Apache2 PPA, check out this website:
 
 https://launchpad.net/~ondrej/+archive/ubuntu/apache2
 
-###Other Software Installed
+---
+
+Other Software Installed
 
 Along with Apache2, the lamp-server^ bit will also install the following packages:
 
@@ -45,5 +46,5 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDYzMTM1NF19
+eyJoaXN0b3J5IjpbMTIzNzc4OTU2Ml19
 -->
