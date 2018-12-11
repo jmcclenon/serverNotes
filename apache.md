@@ -23,7 +23,7 @@
 	
 ```
 <?php
-phpinfo();
+    phpinfo();
 ?>
 ```
 
@@ -49,6 +49,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3Mjg2NjQyLDE5NjA3MTcxNTQsLTE0Mj
-IzMjE1ODEsLTEwNjg1MzE0NjBdfQ==
+eyJoaXN0b3J5IjpbMTQzNjEyMDk0NiwxOTYwNzE3MTU0LC0xND
+IyMzIxNTgxLC0xMDY4NTMxNDYwXX0=
 -->
