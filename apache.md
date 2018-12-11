@@ -8,18 +8,11 @@
 
 3. After installation, you may want to get the latest version of Apache 2, and update your repository information, so that you stay up-to-date with version updates. To do this, you will need to use a PPA. Type the following into your terminal (assuming Linux):
 
-	
-
  - sudo add-apt-repository ppa:ondrej/apache2
-
-
  - sudo apt-get update
+ - sudo apt-get upgrade
+ - sudo apt-get dist-upgrade
 
-	
-	sudo apt-get upgrade
-	
-	sudo apt-get dist-upgrade
-	
 4. When done, check your Apache version number. You can use php.info to establish this information (see below).
 
 	<?php
@@ -48,5 +41,5 @@ PHP 7.x
 
 Various Apache2 modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3ODQyMDM0XX0=
+eyJoaXN0b3J5IjpbMTg4MTUwOTExNF19
 -->
