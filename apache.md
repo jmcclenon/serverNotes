@@ -25,9 +25,9 @@
 The PHP code shown above, when run, will display a great deal of information about your Apache2/PHP platform. That will include the current Apache2 version number. It is probably a good idea to delete phpinfo.php when you're done using it. Too much information!
 
 5. You may want to restart Apache2:
-
+	```
 	service apache2 restart
-	
+	```
 For more information about the Apache2 PPA, check out this website:
 
 https://launchpad.net/~ondrej/+archive/ubuntu/apache2
@@ -44,5 +44,5 @@ PHP 7.x
 
 Various Apache2 modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzQ0NDE4MF19
+eyJoaXN0b3J5IjpbMTUxNDkzODc1Nl19
 -->
