@@ -1,9 +1,9 @@
 ## Install Jupyter Server on Ubuntu 16.04
 ![Jupyter Notebooks](https://content-calpoly-edu.s3.amazonaws.com/cosam/1/images/Project%20Jupyter%20logo.png)
 
-1. Create Ubuntu server on AWS with 30Gb EBS storage
+1. Create Ubuntu server on AWS with at least 30Gb EBS storage and 2 GB of RAM.
 
-2. Associate elastic IP to the new server
+2. Associate elastic IP with the new VM
 
 3. `cd /tmp`
 
@@ -11,9 +11,8 @@
 
 5. `bash Anaconda3-5.2.0-Linux-x86_64.sh`
 
-5a. Delete Anaconda3-5.2.0-linux-x86_64.sh when it is finished installing. This is a BIG .sh file.
----
 
+5a. Delete Anaconda3-5.2.0-linux-x86_64.sh when it is finished installing. This is a BIG .sh file.
 
 6. Approve license and path
 
@@ -62,5 +61,5 @@ conda install notebook ipykernel
 ipython kernel install --user
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg2MTc4NywtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbNTQ5NjI2NzAyLC0yMTA3MTI0NzgxXX0=
 -->
