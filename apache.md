@@ -1,7 +1,7 @@
 ## Install Apache Server on Ubuntu 16.04
-![Apache HTTP Server](https://opensourcesolution.com.br/wp-content/upload/2016/01/apache.png)
+![Apache2 HTTP Server](https://opensourcesolution.com.br/wp-content/upload/2016/01/apache.png)
 
-1. Install Apache using the following APT command:
+1. Install Apache2 using the following APT command:
 
 
 	```
@@ -9,9 +9,9 @@
 	```
 	(__make sure you include the ^ at the end__)
 	
-2. When done, you will have a functional Apache server installed on your machine. You should be able to use a browser, go to the IP address of the server. If you see the Apache startup page, all is well. If you don't see that page, try the installation again.
+2. When done, you will have a functional Apache2 server installed on your machine. You should be able to use a browser, go to the IP address of the server. If you see the Apache2 startup page, all is well. If you don't see that page, try the installation again.
 
-3. After installation, you may want to get the latest version of Apache 2, and update your repository information, so that you stay up-to-date with kernel updates, etc. To do this, you will need to use a PPA. Type the following into your terminal (assuming Linux):
+3. After installation, you may want to get the latest version of Apache2, and update your repository information, so that you stay up-to-date with kernel updates, etc. To do this, you will need to use a PPA. Type the following into your terminal (assuming Linux):
 
 ```
 	sudo add-apt-repository ppa:ondrej/apache2
@@ -19,7 +19,7 @@
 	sudo apt-get upgrade
 	sudo apt-get dist-upgrade
 ```
-4. When done, check your Apache version number. You can use php.info to establish this information (see below).
+4. When done, check your Apache2 version number. You can use php.info to establish this information (see below).
 
 	
 ```
@@ -50,6 +50,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NzMzMzYzLDE5NjA3MTcxNTQsLTE0Mj
-IzMjE1ODEsLTEwNjg1MzE0NjBdfQ==
+eyJoaXN0b3J5IjpbMTEyNTQ1ODAyMywxOTYwNzE3MTU0LC0xND
+IyMzIxNTgxLC0xMDY4NTMxNDYwXX0=
 -->
