@@ -2,6 +2,7 @@
 
 1. Install Apache using the following:
 
+
 	```
 	sudo apt-get install lamp-server^ 
 	```
@@ -47,5 +48,5 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NzI0NjFdfQ==
+eyJoaXN0b3J5IjpbMTMwMjU3MzU2N119
 -->
