@@ -1,12 +1,12 @@
 ## Install Jupyter Server on Ubuntu 16.04
 
-
+![enter image description here](https://perrohunter.com/wp-content/uploads/2016/04/jupyter-sq-text.png)
 
 1. Create Ubuntu server on AWS with 30Gb EBS storage
 
 2. Associate elastic IP to the new server
 
-3. cd /tmp
+3. `cd /tmp`
 
 4. `curl -O https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh` (lookup most recent version)
 
@@ -40,5 +40,5 @@ conda install notebook ipykernel
 
 ipython kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTY1MjM3MywtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbMTk4ODI4MDY5NiwtMjEwNzEyNDc4MV19
 -->
