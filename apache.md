@@ -1,6 +1,6 @@
 ## Install Apache Server on Ubuntu
 
-1. Install Apache using the following:
+1. Install Apache using the following APT command:
 
 
 	```
@@ -48,5 +48,5 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjU3MzU2N119
+eyJoaXN0b3J5IjpbLTE2MjQ5NDI4NjVdfQ==
 -->
