@@ -38,6 +38,9 @@ https://launchpad.net/~ondrej/+archive/ubuntu/apache2
 Along with Apache2, the lamp-server^ bit will also install the following packages:
 
 MySQL 5.x
+
 PHPMyAdmin x.x (Don't leave this installed on your server, hackers are looking for it).
-PHP 7
+
+PHP 7.x
+
 Various Apache2 modules
