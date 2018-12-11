@@ -10,7 +10,7 @@
 	
 2. When done, you will have a functional Apache server installed on your machine. You should be able to use a browser, go to the IP address of the server. If you see the Apache startup page, all is well. If you don't see that page, try the installation again.
 
-3. After installation, you may want to get the latest version of Apache 2, and update your repository information, so that you stay up-to-date with version updates. To do this, you will need to use a PPA. Type the following into your terminal (assuming Linux):
+3. After installation, you may want to get the latest version of Apache 2, and update your repository information, so that you stay up-to-date with kernel updates, etc. To do this, you will need to use a PPA. Type the following into your terminal (assuming Linux):
 
 ```
 	sudo add-apt-repository ppa:ondrej/apache2
@@ -49,5 +49,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg1MzE0NjBdfQ==
+eyJoaXN0b3J5IjpbLTE0MjIzMjE1ODEsLTEwNjg1MzE0NjBdfQ
+==
 -->
