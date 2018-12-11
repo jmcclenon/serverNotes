@@ -17,20 +17,24 @@
 
 7. Approve Prepend PATH suggested
 
-    conda update -n base conda
-
-    conda update anaconda
-
+```
+conda update -n base conda
+```
+```
+conda update anaconda
+```
 8. Activate installation with: 
 
 ```
     source ~/.bashrc
 ```
-9. conda create --name Python3 python3
+9. 
 
-10. source activate Python3
+ conda create --name Python3 python3
 
-11. conda install numpy, pandas, scikit-learn, plotly, matplotlib... etc.
+11. source activate Python3
+
+12. conda install numpy, pandas, scikit-learn, plotly, matplotlib... etc.
 
 configure the python2.7 environment:
 
@@ -42,5 +46,5 @@ conda install notebook ipykernel
 
 ipython kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTY4MDU5MiwtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbOTY2MzY1NTgsLTIxMDcxMjQ3ODFdfQ==
 -->
