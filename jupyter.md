@@ -12,6 +12,8 @@
 5. `bash Anaconda3-5.2.0-Linux-x86_64.sh`
 
 5a. Delete Anaconda3-5.2.0-linux-x86_64.sh when it is finished installing. This is a BIG .sh file.
+---
+
 
 6. Approve license and path
 
@@ -44,7 +46,7 @@ source activate Python3
 ```
 conda install numpy, pandas, scikit-learn, plotly, matplotlib
 ```
-configure the python2.7 environment:
+Configure the Python2.7 environment (if needed):
 
 ```
 conda create -n py27 python=2.7
@@ -57,7 +59,8 @@ source activate py27
 conda install notebook ipykernel
 ```
 ```
-i``python kernel install --user
+ipython kernel install --user
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5MzczNywtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbLTEzOTg2MTc4NywtMjEwNzEyNDc4MV19
 -->
