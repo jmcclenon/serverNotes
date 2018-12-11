@@ -1,0 +1,27 @@
+GIT and GITHUB
+12/10/2018
+
+1. Created an empty GITHUB repository, into which I cloned a repository from a Udemy course I'm taking.
+
+2. Redirected the base URL of the master branch (origin). This is necessary after cloning a repo. It allows your cloned repo to get changes, and not the original repo. Command follows: 
+
+		git remote set-url origin https://github.com/username/repo_name
+
+3. After creating the repo (travel-sites), I connected to it using my AWS Jupyter server (34.235.37.79), which is running the latest version of GIT available. I edited files, staged files, merged files, and deleted files. I also used Working Copy (and Editorial) on my tablet to make and save changes to the repository.
+
+4. Create folders on GITHUB by preceeding the file name with a "/", and then the folder name. Otherwise, GITHUB will think you are naming a file, and act accordingly.
+
+5. The active GIT folder on 34.235.37.79 is /var/www/html/travel-site/travel-site-files.
+
+6. This server has problems with the installed version of GO. This issue requires some troubleshooting in the near future. GO was working fine with I first installed it last week. The problem may be that I never added the startup files to my profile. I may need to do that so that GO can be found/used. I also need to document the source of the information I used to set this up (it was a website).
+
+7. Jupyter Labs and Jupyter Notebook are doing fine on this server. I only have Python3.7 installed. No Python 2.x.
+
+8. GIT Installation on Ubuntu: Add the GIT PPA for the latest GIT package with the following commands:
+
+		sudo add-apt-repository ppa:git-core/ppa
+		sudo apt-get update
+		
+9. Currently, the travel-sites folder is in the /var/html/www/travel-sites folder, making the content available on the Internet. The machine running all of this is an AWS EC2 instance (virtual machine). The idea is a follows: When a developer makes changes to the website, the changes are tracked by GIT and GITHUB. Three machines are able to use the "travel-sites" repo to make changes, and update their respective copies of the code base. When approved changes are made, they are instantly available on the production website. All edits are tracked, and any previous state of the code can be recalled for comparison, or code replacement/backup. This can be very helpful incase the code base is corrupted or damaged. GIT stores multiple copies. One copy for each person with access.
+
+10. I attempted to load/run Julia and R (programming languages) on this server, on the Jupyter platform, but both packages present dead kernels. I have looked at alot of "solutions" for this issue, but nothing seems to work. On this Jupyter server, I only have Python 3.7 running.
