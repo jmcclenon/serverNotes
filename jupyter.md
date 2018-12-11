@@ -39,20 +39,25 @@ conda update anaconda
 source activate Python3
 ```
 
-11. Install Numpy, Pandas, et
+11. Install Numpy, Pandas, etc.
 
-conda install numpy, pandas, scikit-learn, plotly, matplotlib... etc.
-
+```
+conda install numpy, pandas, scikit-learn, plotly, matplotlib
+```
 configure the python2.7 environment:
 
+```
 conda create -n py27 python=2.7
+```
 
+```
 source activate py27
-
+```
+```
 conda install notebook ipykernel
-
-ipython kernel install --user
+```
+```
+i``python kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMyMjc1NTQsLTIxMDcxMjQ3ODFdfQ
-==
+eyJoaXN0b3J5IjpbLTExMDU5MzczNywtMjEwNzEyNDc4MV19
 -->
