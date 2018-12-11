@@ -1,5 +1,7 @@
 ## Install Jupyter Server on Ubuntu 16.04
 
+
+
 1. Create Ubuntu server on AWS with 30Gb EBS storage
 
 2. Associate elastic IP to the new server
@@ -37,3 +39,6 @@ source activate py27
 conda install notebook ipykernel
 
 ipython kernel install --user
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMDcxMjQ3ODFdfQ==
+-->
