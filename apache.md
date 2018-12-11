@@ -22,9 +22,9 @@
 
 	
 ```
-	<?php
-		phpinfo();
-	?>
+<?php
+	phpinfo();
+?>
 ```
 
 The PHP code shown above, when run, will display a great deal of information about your Apache2/PHP platform. That will include the current Apache2 version number. It is probably a good idea to delete phpinfo.php when you're done using it. Too much information!
@@ -49,6 +49,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDcxNzE1NCwtMTQyMjMyMTU4MSwtMT
-A2ODUzMTQ2MF19
+eyJoaXN0b3J5IjpbMTg0MjM4MzY5MCwxOTYwNzE3MTU0LC0xND
+IyMzIxNTgxLC0xMDY4NTMxNDYwXX0=
 -->
