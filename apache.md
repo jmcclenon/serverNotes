@@ -16,7 +16,6 @@
 	
 	sudo apt-get dist-upgrade
 	
-	
 4. When done, check your Apache version number. You can use php.info to establish this information (see below).
 
 	<?php
@@ -44,3 +43,6 @@ PHPMyAdmin x.x (Don't leave this installed on your server, hackers are looking f
 PHP 7.x
 
 Various Apache2 modules
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI1NTUxNTIyOF19
+-->
