@@ -22,7 +22,7 @@
 ```
 	<?php
 		phpinfo();
-?>
+	?>
 ```
 
 The PHP code shown above, when run, will display a great deal of information about your Apache2/PHP platform. That will include the current Apache2 version number. It is probably a good idea to delete phpinfo.php when you're done using it. Too much information!
@@ -39,13 +39,11 @@ https://launchpad.net/~ondrej/+archive/ubuntu/apache2
 
 Along with Apache2, the lamp-server^ bit will also install the following packages:
 
-MySQL 5.x
+ - MySQL 5.x
+ - PHPMyAdmin x.x (Don't leave this installed on your server, hackers are looking for it).
+ - PHP 7.x
+ - Various Apache2 modules
 
-PHPMyAdmin x.x (Don't leave this installed on your server, hackers are looking for it).
-
-PHP 7.x
-
-Various Apache2 modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzIxMzExMF19
+eyJoaXN0b3J5IjpbMTQ2NDYzMTM1NF19
 -->
