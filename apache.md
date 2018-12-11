@@ -1,4 +1,4 @@
-## Install Apache Server on Ubuntu![enter image description here](https://opensourcesolution.com.br/wp-content/upload/2016/01/apache.png)
+## Install Apache Server on Ubuntu![Apache HTTP Server](https://opensourcesolution.com.br/wp-content/upload/2016/01/apache.png)
 
 1. Install Apache using the following APT command:
 
@@ -49,6 +49,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjM1NDAwNiwtMTQyMjMyMTU4MSwtMT
+eyJoaXN0b3J5IjpbMTk2MDcxNzE1NCwtMTQyMjMyMTU4MSwtMT
 A2ODUzMTQ2MF19
 -->
