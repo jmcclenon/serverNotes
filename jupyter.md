@@ -1,5 +1,5 @@
 ## Install Jupyter Server on Ubuntu 16.04
-
+![Jupyter Notebooks](https://content-calpoly-edu.s3.amazonaws.com/cosam/1/images/Project%20Jupyter%20logo.png)
 
 1. Create Ubuntu server on AWS with 30Gb EBS storage
 
@@ -39,5 +39,5 @@ conda install notebook ipykernel
 
 ipython kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjYxMTIxNSwtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbLTczMzAwOTA4NCwtMjEwNzEyNDc4MV19
 -->
