@@ -28,13 +28,20 @@ conda update anaconda
 ```
     source ~/.bashrc
 ```
-9. 
+9. Create Python3 Environment
 
+```
  conda create --name Python3 python3
+```
+10. Activate the Python3 Environment 
 
-11. source activate Python3
+```
+source activate Python3
+```
 
-12. conda install numpy, pandas, scikit-learn, plotly, matplotlib... etc.
+11. Install Numpy, Pandas, et
+
+conda install numpy, pandas, scikit-learn, plotly, matplotlib... etc.
 
 configure the python2.7 environment:
 
@@ -46,5 +53,6 @@ conda install notebook ipykernel
 
 ipython kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MzY1NTgsLTIxMDcxMjQ3ODFdfQ==
+eyJoaXN0b3J5IjpbLTEwNjMyMjc1NTQsLTIxMDcxMjQ3ODFdfQ
+==
 -->
