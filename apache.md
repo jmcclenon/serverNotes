@@ -14,10 +14,10 @@
 3. After installation, you may want to get the latest version of Apache2, and update your repository information, so that you stay up-to-date with kernel updates, etc. To do this, you will need to use a PPA. Type the following into your terminal (assuming Linux):
 
 ```
-	sudo add-apt-repository ppa:ondrej/apache2
-	sudo apt-get update
-	sudo apt-get upgrade
-	sudo apt-get dist-upgrade
+sudo add-apt-repository ppa:ondrej/apache2
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
 ```
 4. When done, check your Apache2 version number. You can use php.info to establish this information (see below).
 
@@ -50,6 +50,6 @@ Along with Apache2, the lamp-server^ bit will also install the following package
  - Various Apache2 modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTQ1ODAyMywxOTYwNzE3MTU0LC0xND
-IyMzIxNTgxLC0xMDY4NTMxNDYwXX0=
+eyJoaXN0b3J5IjpbNjg3NzE5Mzk5LDExMjU0NTgwMjMsMTk2MD
+cxNzE1NCwtMTQyMjMyMTU4MSwtMTA2ODUzMTQ2MF19
 -->
