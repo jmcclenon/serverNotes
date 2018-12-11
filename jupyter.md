@@ -8,9 +8,9 @@
 
 3. cd /tmp
 
-4. curl -O https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh (lookup most recent version)
+4. `curl -O https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh` (lookup most recent version)
 
-5. bash Anaconda3-5.2.0-Linux-x86_64.sh
+5. `bash Anaconda3-5.2.0-Linux-x86_64.sh`
 
 5a. Delete Anaconda3-5.2.0-linux-x86_64.sh when it is finished installing. This is a BIG .sh file.
 
@@ -40,5 +40,5 @@ conda install notebook ipykernel
 
 ipython kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcxMjQ3ODFdfQ==
+eyJoaXN0b3J5IjpbMTUzMTY1MjM3MywtMjEwNzEyNDc4MV19
 -->
