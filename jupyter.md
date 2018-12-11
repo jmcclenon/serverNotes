@@ -17,12 +17,15 @@
 
 7. Approve Prepend PATH suggested
 
-conda update -n base conda
+    conda update -n base conda
 
-conda update anaconda
+    conda update anaconda
 
-8. Activate installation with: source ~/.bashrc
+8. Activate installation with: 
 
+```
+    source ~/.bashrc
+```
 9. conda create --name Python3 python3
 
 10. source activate Python3
@@ -39,5 +42,5 @@ conda install notebook ipykernel
 
 ipython kernel install --user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzAwOTA4NCwtMjEwNzEyNDc4MV19
+eyJoaXN0b3J5IjpbLTY3OTY4MDU5MiwtMjEwNzEyNDc4MV19
 -->
