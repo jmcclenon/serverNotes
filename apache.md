@@ -32,3 +32,12 @@ The PHP code shown above, when run, will display a great deal of information abo
 For more information about the Apache2 PPA, check out this website:
 
 https://launchpad.net/~ondrej/+archive/ubuntu/apache2
+
+##Other Software Installed
+
+Along with Apache2, the lamp-server^ bit will also install the following packages:
+
+MySQL 5.x
+PHPMyAdmin x.x (Don't leave this installed on your server, hackers are looking for it).
+PHP 7
+Various Apache2 modules
