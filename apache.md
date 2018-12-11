@@ -33,7 +33,7 @@ For more information about the Apache2 PPA, check out this website:
 
 https://launchpad.net/~ondrej/+archive/ubuntu/apache2
 
-##Other Software Installed
+###Other Software Installed
 
 Along with Apache2, the lamp-server^ bit will also install the following packages:
 
