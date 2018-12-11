@@ -60,6 +60,13 @@ conda install notebook ipykernel
 ```
 ipython kernel install --user
 ```
+
+---
+To start Jupyter Notebook, use:
+
+```
+jupyter notebook --no-ip -
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NjI2NzAyLC0yMTA3MTI0NzgxXX0=
+eyJoaXN0b3J5IjpbMTY2MDI4NjQ5NSwtMjEwNzEyNDc4MV19
 -->
