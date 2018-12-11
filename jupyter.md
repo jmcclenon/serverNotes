@@ -75,13 +75,12 @@ jupyter lab --no-ip --port 9999 --no-browser
 ```
 Note that the terminal you are running Jupyter Notebook server (or Jupyter Lab server) from will be fully engaged. You will need to start another remote session to do anything else on the server.
 
-To end the Jupyter server session, do 
+To end the Jupyter server session, do.. 
 
 ```
 CTRL-C
 ```
-...twice!
+...twice! That will break your terminal out of Jupyter server, and shut down all notebooks and labs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc0NjA5NzksLTIxMDcxMjQ3ODFdfQ
-==
+eyJoaXN0b3J5IjpbLTY1MTA1MjA2NiwtMjEwNzEyNDc4MV19
 -->
